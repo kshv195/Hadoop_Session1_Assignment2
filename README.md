@@ -1,3 +1,3 @@
 # Hadoop_Session1_Assignment2
 
-Explaining some of the basic linus commands
+Explaining some of the basic linux commands
